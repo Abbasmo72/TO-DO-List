@@ -36,4 +36,23 @@ A TO-DO List is a simple yet powerful tool for organizing tasks and enhancing pr
        - View the task list.
        - Edit or delete tasks.
        - Sort tasks by priority or due date.
+2. Data Management:
+   - <b>Storage:</b>
+      - Use JSON files or databases (SQLite, MySQL) for storing tasks.
+      - For online apps, consider server-based data storage.
+   - <b>Offline Support:</b> Allow access to tasks without an internet connection, with sync capabilities when back online.
+   - <b>Backups:</b> Provide options for backing up and restoring data.
+3. Core Functionalities:
+   - <b>Add Task:</b> A simple form to input task name, description, due date, and priority.
+   - <b>Edit Task:</b> Enable modifying task details.
+   - <b>Delete Task:</b> Allow removing one or multiple tasks with user confirmation.
+   - <b>Task Status:</b> Mark tasks as "completed" or "in-progress."
+   - <b>Sorting:</b> Allow sorting tasks by priority, date, or status.
+
+
+
+
+
+
+
 
