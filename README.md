@@ -48,7 +48,12 @@ A TO-DO List is a simple yet powerful tool for organizing tasks and enhancing pr
    - <b>Delete Task:</b> Allow removing one or multiple tasks with user confirmation.
    - <b>Task Status:</b> Mark tasks as "completed" or "in-progress."
    - <b>Sorting:</b> Allow sorting tasks by priority, date, or status.
-
+4. Advanced Features:
+   - <b>Categories/Tags:</b> Group tasks under categories (e.g., Work, Personal, Shopping).
+   - <b>Notifications:</b> Send reminders before task deadlines.
+   - <b>Cloud Sync:</b> Store data in the cloud for cross-device accessibility.
+   - <b>Search and Filter:</b> Enable searching and filtering tasks by status, category, or priority.
+5.
 
 
 
