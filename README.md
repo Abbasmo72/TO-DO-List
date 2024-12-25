@@ -67,7 +67,10 @@ A TO-DO List is a simple yet powerful tool for organizing tasks and enhancing pr
    - <b>Updates:</b> Design the app for easy updates.
    - <b>User Feedback:</b> Add a section to collect user feedback.
    - <b>Testing:</b> Test the app with diverse users to identify potential issues and real needs.
-
+8. User Experience (UX):
+   - <b>Consistency:</b> Provide a consistent experience across devices (mobile and desktop).
+   - <b>Interactive Elements:</b> Use animations or simple effects for better interaction.
+   - <b>Performance:</b> Ensure smooth and fast operations.
 
 
 
