@@ -73,7 +73,7 @@ A TO-DO List is a simple yet powerful tool for organizing tasks and enhancing pr
    - <b>Performance:</b> Ensure smooth and fast operations.
      
 By following these guidelines, you can build a professional and functional To-Do List application. Let me know if you'd like sample code or further details on any specific part!
-
+<hr>
 
 
 
