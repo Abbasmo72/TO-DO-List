@@ -26,3 +26,14 @@ A TO-DO List refers to a list where individuals record their tasks, duties, and 
 ### Conclusion
 A TO-DO List is a simple yet powerful tool for organizing tasks and enhancing productivity. By consistently using this tool, you can get closer to your goals, manage your time better, and reduce stress. If you’re not using a TO-DO List yet, start today!
 <hr>
+
+## Key Points to Consider When Building a To-Do List Application:
+1. User Interface (UI):
+   - <b>Simplicity and Clarity:</b> Ensure the interface is clean and intuitive. Buttons, forms, and lists should be clearly labeled.
+   - <b>Responsive Design:</b> The app should work seamlessly across devices (mobile, tablet, desktop).
+   - <b>Essential UI Features:</b>
+       - Add new tasks.
+       - View the task list.
+       - Edit or delete tasks.
+       - Sort tasks by priority or due date.
+
