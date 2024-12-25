@@ -57,7 +57,16 @@ A TO-DO List is a simple yet powerful tool for organizing tasks and enhancing pr
    - Authentication: If multi-user, ensure login with username and password.
    - Data Encryption: Encrypt sensitive data (e.g., deadlines or personal details).
    - Access Control: Ensure users can only access their own data.
-
+6. Technology and Tools:
+   - <b>Programming Language:</b>
+      - For desktop: Python (Tkinter, PyQt, Kivy).
+      - For web: JavaScript (React, Vue, Angular for front-end) and Python/Node.js for back-end.
+      - For mobile: Flutter, React Native, or Kotlin/Swift.
+   - <b>Libraries:</b> Use libraries like Todoist API or FullCalendar to speed up development.
+7. Maintenance and Future Development:
+   - <b>Updates:</b> Design the app for easy updates.
+   - <b>User Feedback:</b> Add a section to collect user feedback.
+   - <b>Testing:</b> Test the app with diverse users to identify potential issues and real needs.
 
 
 
