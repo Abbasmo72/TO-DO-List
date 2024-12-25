@@ -53,7 +53,10 @@ A TO-DO List is a simple yet powerful tool for organizing tasks and enhancing pr
    - <b>Notifications:</b> Send reminders before task deadlines.
    - <b>Cloud Sync:</b> Store data in the cloud for cross-device accessibility.
    - <b>Search and Filter:</b> Enable searching and filtering tasks by status, category, or priority.
-5.
+5. Security:
+   - Authentication: If multi-user, ensure login with username and password.
+   - Data Encryption: Encrypt sensitive data (e.g., deadlines or personal details).
+   - Access Control: Ensure users can only access their own data.
 
 
 
