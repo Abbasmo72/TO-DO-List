@@ -81,5 +81,31 @@ In this section, we show some examples of the to do list program in different fo
 
 ### The first program TO DO List
 [To Do List English one](TODOlist/DOTOList_1_English.py)<br>
-[To Do List Persian one](TODOlist/DOTOList_1_Persian.py)
+[To Do List Persian one](TODOlist/DOTOList_1_Persian.py)<br>
 
+This Python code implements a task management application with a graphical user interface (GUI) using the customtkinter library. It provides functionality to create, view, update, delete, and export tasks. The application stores tasks in a SQLite database and offers a user-friendly interface for managing them.
+
+### Code Analysis
+1. Database Setup:
+   - The setup_database() function ensures that the SQLite database (tasks.db) and the tasks table are created if they don’t already exist. The table includes fields such as id, name, description, deadline, priority, status, and category.
+2. Database Management Functions:
+   - add_task(): Inserts a new task into the database.
+   - fetch_tasks(): Retrieves tasks from the database, optionally filtered by status and/or category. The results are ordered by priority and deadline.
+   - delete_task(): Removes a task from the database based on its id.
+   - update_task(): Updates a task's details.
+   - update_task_status(): Modifies the status of a task.
+3. User Interface:
+   - Built using customtkinter, a modern alternative to the traditional tkinter library.
+   - Input fields for task attributes such as name, description, deadline, priority, and category.
+   - A list box for displaying tasks.
+   - Buttons for adding, editing, deleting, and exporting tasks.
+4. Task Export Options:
+   - Tasks can be exported to CSV or JSON format using export_to_csv() and export_to_json() functions. The exported files include all task details, making it easy to share or back up the data.
+5. Error Handling and Validation:
+   - The validate_date() method ensures that deadlines are provided in the correct YYYY-MM-DD format.
+   - Basic validation checks for empty fields and priority values between 1 and 5.
+6. Modularity:
+   - Database operations and UI functions are separated, improving code readability and maintainability.
+<hr>
+
+### The second program TO DO List
