@@ -75,6 +75,9 @@ A TO-DO List is a simple yet powerful tool for organizing tasks and enhancing pr
 By following these guidelines, you can build a professional and functional To-Do List application. Let me know if you'd like sample code or further details on any specific part!
 <hr>
 
+# Getting Started
+In this section, we show some examples of the to do list program in different forms
+
 
 
 
