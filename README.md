@@ -77,8 +77,9 @@ By following these guidelines, you can build a professional and functional To-Do
 
 # Getting Started
 In this section, we show some examples of the to do list program in different forms
+<hr>
 
-
-
-
+### The first program TO DO List
+[To Do List English one](TODOlist/DOTOList_1_English.py)<br>
+[To Do List Persian one](TODOlist/DOTOList_1_Persian.py)
 
