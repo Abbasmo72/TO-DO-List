@@ -147,4 +147,5 @@ The ToDoApp class implements the graphical interface. Key elements include:
    - The setup_database function is called to ensure the database is set up.
    - A Tkinter window is created, and the main application is launched with app = ToDoApp(root).
    - The Tkinter event loop (root.mainloop()) keeps the application running and responsive.
+<hr>
    
