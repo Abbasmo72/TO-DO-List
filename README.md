@@ -110,4 +110,4 @@ This Python code implements a task management application with a graphical user 
 
 ### The second program TO DO List
 [To Do List English one](TODOlist/TODOList_2_English.py)<br>
-[To Do List English one](TODOlist/TODOList_2_Persian.py)<br>
+[To Do List Persian one](TODOlist/TODOList_2_Persian.py)<br>
