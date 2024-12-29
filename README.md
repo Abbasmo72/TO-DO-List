@@ -111,3 +111,24 @@ This Python code implements a task management application with a graphical user 
 ### The second program TO DO List
 [To Do List English Two](TODOlist/TODOList_2_English.py)<br>
 [To Do List Persian Two](TODOlist/TODOList_2_Persian.py)<br>
+
+This code implements a To-Do List application using Tkinter for the graphical user interface (GUI) and SQLite for data storage. Here's an analysis of its components:
+1. Database Setup
+The setup_database function initializes an SQLite database and creates a table named tasks if it doesn't already exist. The table includes the following fields:
+   - id: A unique primary key for each task.
+   - name: The task's name (required).
+   - description: A description of the task.
+   - deadline: The due date for the task.
+   - priority: The task's priority (default value is 5).
+   - status: The task's current status (default is "Pending").
+   - category: The category the task belongs to.
+2. Database Interaction Functions
+   - add_task: Adds a new task to the tasks table.
+   - fetch_tasks: Retrieves all tasks from the database, ordered by priority and deadline..
+   - delete_task: Deletes a specific task based on its id.
+   - update_task_status: Updates the status of a specific task (e.g., marking it as "Done").
+These functions handle database interactions and ensure that changes are committed.
+3. Graphical User Interface (ToDoApp Class)
+The ToDoApp class implements the graphical interface. Key elements include:
+   - 
+   
