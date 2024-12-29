@@ -127,8 +127,10 @@ The setup_database function initializes an SQLite database and creates a table n
    - add_task: Adds a new task to the tasks table.
    - fetch_tasks: Retrieves all tasks from the database, ordered by priority and deadline..
    - delete_task: Deletes a specific task based on its id.
-   - update_task_status: Updates the status of a specific task (e.g., marking it as "Done").<br>
+   - update_task_status: Updates the status of a specific task (e.g., marking it as "Done").
+   
 These functions handle database interactions and ensure that changes are committed.
+
 3. Graphical User Interface (ToDoApp Class)
 The ToDoApp class implements the graphical interface. Key elements include:
    - Input Fields: For task name, description, deadline, priority, and category.
@@ -148,4 +150,5 @@ The ToDoApp class implements the graphical interface. Key elements include:
    - A Tkinter window is created, and the main application is launched with app = ToDoApp(root).
    - The Tkinter event loop (root.mainloop()) keeps the application running and responsive.
 <hr>
-   
+
+### The third program TO DO List
