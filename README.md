@@ -76,7 +76,7 @@ By following these guidelines, you can build a professional and functional To-Do
 <hr>
 
 # Getting Started
-In this section, we show some examples of the to do list program in different forms
+In this section, we show some examples of the to do list program in different forms.
 <hr>
 
 ## The first program TO DO List
