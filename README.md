@@ -165,4 +165,22 @@ The provided Python script implements a multilingual To-Do Application using the
    - Search Tasks: Enables searching tasks based on name or category.
    - Backup Tasks: Creates a backup of tasks in a JSON file.
    - Save/Load Tasks: Automatically saves tasks to tasks.json and loads them on startup.
-3. 
+3. Data Validation:
+   - Validates the date format and ensures the deadline is not in the past.
+   - Validates that priority is an integer between 1 and 5.
+4. Task Management:
+   - Tasks are represented as dictionaries with attributes like name, description, deadline, priority, category, and status.
+   - The status of tasks can be toggled between "Pending" and "Completed."
+
+### Key Components and Design
+1. Language Selection:
+   - The setup_language_selection method initializes a simple interface where users choose their preferred language. The application then updates its UI accordingly.
+2. Main UI:
+   - The setup_main_ui method builds the main menu, offering options to add tasks, view tasks, search tasks, back up tasks, or exit the application.
+3. Task Addition:
+   - The add_task method uses a secondary window to collect task details.
+   - Validates input fields for correct date format and priority values.
+   - Adds the new task to the internal tasks list and saves it to tasks.json.
+4. Task Viewing and Status Management:
+   - The view_tasks method displays tasks in a Treeview widget.
+   - Users can select a task to mark its status as "Completed."
