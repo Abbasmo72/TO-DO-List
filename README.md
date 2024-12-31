@@ -155,4 +155,14 @@ The ToDoApp class implements the graphical interface. Key elements include:
 [To Do List bilingual](TODOlist/TODOList_3_.py)<br>
 The provided Python script implements a multilingual To-Do Application using the tkinter library. Below is an analysis of the code:
 
-## 
+### Features Overview
+1. Multilingual Support:
+   - The application supports English and Persian, with language-specific labels and messages stored in the LANGUAGES dictionary.
+   - Users can select their preferred language upon starting the application.
+2. Core Functionalities:
+   - Add Task: Allows users to input details like name, description, deadline, priority, and category for a new task.
+   - View Tasks: Displays the list of tasks in a tabular format with options to change the status of tasks.
+   - Search Tasks: Enables searching tasks based on name or category.
+   - Backup Tasks: Creates a backup of tasks in a JSON file.
+   - Save/Load Tasks: Automatically saves tasks to tasks.json and loads them on startup.
+3. 
