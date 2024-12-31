@@ -79,7 +79,7 @@ By following these guidelines, you can build a professional and functional To-Do
 In this section, we show some examples of the to do list program in different forms
 <hr>
 
-### The first program TO DO List
+## The first program TO DO List
 [To Do List English one](TODOlist/TODOList_1_English.py)<br>
 [To Do List Persian one](TODOlist/TODOList_1_Persian.py)<br>
 
@@ -108,7 +108,7 @@ This Python code implements a task management application with a graphical user 
    - Database operations and UI functions are separated, improving code readability and maintainability.
 <hr>
 
-### The second program TO DO List
+## The second program TO DO List
 [To Do List English Two](TODOlist/TODOList_2_English.py)<br>
 [To Do List Persian Two](TODOlist/TODOList_2_Persian.py)<br>
 
