@@ -184,3 +184,19 @@ The provided Python script implements a multilingual To-Do Application using the
 4. Task Viewing and Status Management:
    - The view_tasks method displays tasks in a Treeview widget.
    - Users can select a task to mark its status as "Completed."
+5. Task Search:
+   - The search_tasks method provides a search interface to filter tasks by name or category.
+   - Results are displayed in a new window using a Treeview.
+6. Data Persistence:
+   - Tasks are saved to and loaded from tasks.json, ensuring data persists across application restarts.
+   - A backup can also be created manually in tasks_backup.json.
+   
+### Strengths
+1. User-Friendly Interface:
+   - The application is intuitive, with clearly labeled buttons and fields.
+2. Extensibility:
+   - The use of a dictionary for language strings makes it easy to add new languages.
+3. Error Handling:
+   - Provides meaningful error messages for invalid input.
+
+### Summary
