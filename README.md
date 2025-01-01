@@ -205,3 +205,12 @@ This Python script demonstrates a well-structured approach to building a simple,
 
 ## The fourth program TO DO List 
 [To Do List bilingual](TODOlist/TODOList_4_.py)<br>
+
+### Code Analysis
+This Python code creates a GUI-based To-Do List Manager using CustomTkinter and Tkinter libraries. It allows users to add tasks, display them in a scrollable list, and export them to a JSON file. Additionally, the app supports multilingual functionality 
+
+### Key Components of the Code
+1. Initial Setup and Language Selection
+   - CustomTkinter Settings: The app uses CustomTkinter for a modern look and feel. Appearance mode (Light/Dark/System) and color themes can be configured.
+   - Language Dictionary: A dictionary (LANGUAGES) stores translations for English and Persian. Language selection happens at the start of the program.
+   - Language Selection Window: The select_language function creates a simple window to let users choose their language. The main application is then initialized in the selected language.
