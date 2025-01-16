@@ -6,8 +6,11 @@
 <hr>
 
 ## TO-DO List: A Tool for Task Management and Productivity
+
 ### What is a TO-DO List?
+
 A TO-DO List refers to a list where individuals record their tasks, duties, and goals for a specific period. This tool can be as simple as a piece of paper or as advanced as digital applications and software.
+
 ### Why Do We Need a TO-DO List?
 1. <b>Time Management:</b> Having a list helps you prioritize tasks and manage your time effectively.
 2. <b>Increased Productivity:</b> By writing down tasks, you can focus on completing them instead of worrying about forgetting them.
